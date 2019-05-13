@@ -16,7 +16,7 @@ public class characterAnim : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.RightArrow))
+        if(Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
         {
             anim.SetBool("isRunning", true);
         }
