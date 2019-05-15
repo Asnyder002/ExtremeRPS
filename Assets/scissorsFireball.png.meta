@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: 9d0f5d9983e03a949987e81e3bf0f7c5
+guid: 6684b12a597e6ad45b26f8a1de208f8b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6689946350199266671
-    second: Scissors_0
+      213: 910047626393360427
+    second: scissorsFireball_0
   - first:
-      213: 738445177526895907
-    second: Scissors_1
+      213: 6268298164238577095
+    second: scissorsFireball_1
+  - first:
+      213: 1811171111427403140
+    second: scissorsFireball_2
+  - first:
+      213: -7277103512545441675
+    second: scissorsFireball_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -90,13 +96,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Scissors_0
+      name: scissorsFireball_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 208
-        width: 300
-        height: 156
+        x: 0
+        y: 807
+        width: 436
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -104,20 +110,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a85ce0ed1d09d3046a5d4eacee862985
-      internalID: 6689946350199266671
+      spriteID: 0e3a5140f9e8efe458cf688b1067fb68
+      internalID: 910047626393360427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scissors_1
+      name: scissorsFireball_1
       rect:
         serializedVersion: 2
-        x: 21
-        y: 30
-        width: 290
-        height: 163
+        x: 0
+        y: 538
+        width: 436
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,8 +131,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68e48ae63af066346adbe683a5555903
-      internalID: 738445177526895907
+      spriteID: d48172c33cf561c459ac7517f8f98337
+      internalID: 6268298164238577095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissorsFireball_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 436
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc349710a2b529a41b58791869b17f1b
+      internalID: 1811171111427403140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scissorsFireball_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 436
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0b60b796aa904ebcd02562100b583
+      internalID: -7277103512545441675
       vertices: []
       indices: 
       edges: []
@@ -134,7 +182,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 0e5e03676152276459a0fa628b6a602f
+    spriteID: 05b7bd6e1de07f4468bd847abde806e5
     internalID: 0
     vertices: []
     indices: 
@@ -143,7 +191,7 @@ TextureImporter:
     secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 1
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
