@@ -15,7 +15,12 @@ public class Scissors : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        Destroy(gameObject);
+        Debug.Log(hitInfo.name);
+        if(hitInfo.name != "Character")
+        {
+            Destroy(gameObject);
+        }
+        
     }
 
 }

@@ -587,8 +587,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 498570946}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.7, y: -16.8, z: 0}
-  m_LocalScale: {x: 90.961105, y: 12.012302, z: 1}
+  m_LocalPosition: {x: -0.98, y: -16.15, z: 0}
+  m_LocalScale: {x: 59.534042, y: 3.800476, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -672,7 +672,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 13
+  orthographic size: 15
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1236,7 +1236,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 14
   m_Sprite: {fileID: 4028699418541168858, guid: 9de79ad1dd6e04a43aef81215a8525b4,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
