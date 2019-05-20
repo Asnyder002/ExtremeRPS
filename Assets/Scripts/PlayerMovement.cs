@@ -37,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
             anim.SetTrigger("jump");
         }
 
-        if(Input.GetButtonDown("Fire1"))
+        if(Input.GetButtonDown("Fire1") || Input.GetButtonDown("Fire2") || Input.GetButtonDown("Fire3"))
         {
             anim.SetTrigger("casting");
         }

@@ -778,6 +778,10 @@ MonoBehaviour:
   firePoint: {fileID: 1559287979}
   fireballPrefab: {fileID: 6234502910599208578, guid: a380843923804e247a5f6c7bfd362381,
     type: 3}
+  rockPrefab: {fileID: 5576297263465880866, guid: 4aa3854c6a4c9814c802bda5e292c748,
+    type: 3}
+  paperPrefab: {fileID: 5229329888327837942, guid: 898e2e1726d09af459441a5fd9f8d0ba,
+    type: 3}
 --- !u!114 &604509488
 MonoBehaviour:
   m_ObjectHideFlags: 0
